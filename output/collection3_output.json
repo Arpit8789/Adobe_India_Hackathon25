@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T23:01:57.797359"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "•  Cook spaghetti according to package instructions. ",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "•  1 small onion, sliced ",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "•  1 pound ground beef ",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "• ",
+      "importance_rank": 4,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "•  4 pork chops ",
+      "importance_rank": 5,
+      "page_number": 15
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "•  Cook spaghetti according to package instructions. \n• \n• \n• \n•  Add cooked spaghetti and toss to coat. \n•  Remove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n•  Garnish with chopped parsley and serve. •  4 bell peppers, tops cut off and seeds removed \n•  1 pound ground beef \n•  1 small onion, diced \n•  2 cloves garlic, minced \n•  1 cup cooked rice \n•  1 can (14.5 ounces) diced tomatoes •  1/4 cup bacon, chopped \n•  1/4 cup green onions, sliced \n•  Salt and pepper to taste • \n• \n•  Add shrimp and cook until pink and opaque. \n•  Stir in cooked bacon and sliced green onions. \n•  Serve shrimp mixture over grits. •  1 pound spaghetti \n•  4 eggs \n•  1 cup grated Parmesan cheese \n•  1/2 cup pancetta, diced \n•  2 cloves garlic, minced \n•  1/4 cup heavy cream (optional) \n•  Salt and pepper to taste \n•  Chopped parsley for garnish Sweet and Sour Pork \nIngredients: Instructions: In the same skillet, sauté diced onion and bell pepper until softened. Tandoori Chicken \nIngredients: In a bowl, toss pork cubes with cornstarch. \n• \n•  Heat vegetable oil in a skillet over medium heat. \n•  Cook pork until browned and crispy, then set aside. \n• \n•  Stir in pineapple chunks, ketchup, rice vinegar, soy sauce, and brown sugar. \n•  Return pork to the skillet and toss to coat in the sauce. \n•  Serve over cooked rice. •  1 pound pork tenderloin, cubed \n•  1 bell pepper, diced \n•  1 small onion, diced \n•  1/2 cup pineapple chunks \n•  1/4 cup ketchup \n•  1/4 cup rice vinegar \n•  1/4 cup soy sauce \n•  1/4 cup brown sugar \n•  2 tablespoons cornstarch \n•  2 tablespoons vegetable oil \n•  Cooked rice for serving •  4 boneless, skinless chicken thighs \n•  1 cup yogurt \n•  2 tablespoons lemon juice \n•  2 cloves garlic, minced \n•  1 teaspoon grated ginger \n•  1 teaspoon cumin \n•  1 teaspoon coriander \n•  1 teaspoon turmeric \n•  1 teaspoon paprika \n•  1 teaspoon garam masala",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "•  1 small onion, sliced \n•  2 cloves garlic, minced \n•  1 piece ginger, sliced \n•  2 star anise \n•  1 cinnamon stick \n•  1 tablespoon fish sauce \n•  1 tablespoon soy sauce \n•  8 ounces rice noodles \n•  Fresh basil, cilantro, bean sprouts, lime wedges, and sliced jalapeños for garnish •  1 pound chicken thighs, cut into bite-sized pieces \n•  1/4 cup soy sauce \n•  1/4 cup mirin \n•  1/4 cup sake \n•  2 tablespoons sugar \n•  Bamboo skewers \n•  Sliced green onions for garnish Instructions: In a large skillet, heat olive oil over medium heat. Beef and Broccoli \nIngredients: Instructions: In the same skillet, sauté diced onion and minced garlic until fragrant. In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. \nIn a large skillet, heat vegetable oil over medium heat. Chicken Fajitas \nIngredients: • \n•  Add zucchini noodles and cook until tender. \n•  Stir in basil pesto and cherry tomatoes. \n•  Season with salt and pepper. \n•  Sprinkle with grated Parmesan cheese and serve. •  1/2 cup basil pesto \n•  1/4 cup cherry tomatoes, halved \n•  1/4 cup grated Parmesan cheese \n•  2 tablespoons olive oil \n•  Salt and pepper to taste •  1 pound chicken breast, sliced \n•  1 bell pepper, sliced \n•  1 small onion, sliced \n•  2 tablespoons fajita seasoning •  1 pound beef sirloin, thinly sliced \n•  2 cups broccoli florets \n•  1 small onion, diced \n•  2 cloves garlic, minced \n•  1/4 cup soy sauce \n•  1/4 cup beef broth \n•  2 tablespoons oyster sauce \n•  1 tablespoon cornstarch \n•  2 tablespoons vegetable oil \n•  Cooked rice for serving • \n• \n•  Cook sliced beef until browned, then set aside. \n• \n•  Add broccoli florets and stir-fry until tender. \n•  Return beef to the skillet and pour sauce over the top. \n•  Cook until sauce is thickened. \n•  Serve over cooked rice. Instructions: In a large skillet, heat vegetable oil over medium heat. vegetables are tender. Chicken Piccata \nIngredients: Instructions: In the same skillet, add lemon juice, chicken broth, and capers, simmer until reduced by \nhalf.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "•  1 pound ground beef \n•  1 small onion, diced \n•  2 cloves garlic, minced \n•  1 packet taco seasoning \n•  1/2 cup water \n•  Taco shells or tortillas Instructions: In a skillet, cook ground beef over medium heat until browned. Lasagna \nIngredients: Instructions: In a skillet, cook ground beef, diced onion, and minced garlic until browned. In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 \nof the shredded mozzarella cheese. Let stand for 10 minutes before serving. Chicken Alfredo \nIngredients: •  Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings • \n•  Add diced onion and minced garlic, sauté until softened. \n•  Stir in taco seasoning and water, simmer until thickened. \n•  Serve beef mixture in taco shells or tortillas with desired toppings. •  Repeat layers twice more. \n•  Cover with foil and bake for 25 minutes. \n•  Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly. \n• •  1 pound ground beef \n•  1 small onion, diced \n•  2 cloves garlic, minced \n•  1 jar (24 ounces) marinara sauce \n•  1 can (15 ounces) ricotta cheese \n•  1 egg \n•  1/4 cup grated Parmesan cheese \n•  1 teaspoon dried basil \n•  1 teaspoon dried oregano \n•  9 lasagna noodles, cooked \n•  2 cups shredded mozzarella cheese •  4 boneless, skinless chicken breasts \n•  1 pound fettuccine \n•  1 cup heavy cream \n•  1/2 cup grated Parmesan cheese \n•  1/4 cup butter •  Preheat oven to 375°F (190°C). \n• \n•  Stir in marinara sauce and simmer for 10 minutes. \n• \n•  Spread a thin layer of meat sauce in a baking dish. \n• Instructions: Shepherd's Pie \nIngredients: Instructions: In a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. Pad Thai \nIngredients:",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• \n• \n• \n• \n•  2 tablespoons olive oil \n1 tablespoon lime juice \n• \n•  Salt and pepper to taste • \n• \n• \n• \n• • \n• Instructions: In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. Turkey and Apple Sandwich \nIngredients: Instructions: Mediterranean Tuna Salad \nIngredients: 1 can tuna, drained \n1/4 cup cherry tomatoes, halved \n1/4 cup cucumber, diced \n1/4 cup black olives, sliced \n1/4 cup feta cheese, crumbled Instructions: In a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese. •  Spread mustard or mayo on one slice of bread. \n•  Layer the turkey, apple slices, and spinach on top. \n•  Top with the second slice of bread and cut in half. • \n•  Season with salt and pepper. \n•  Lay the tortilla flat and spread the mixture evenly. \n•  Roll up the tortilla tightly and slice in half. • \n•  Drizzle with olive oil and lemon juice. \n•  Season with salt and pepper, then toss to combine. 1/4 cup spinach, chopped \n• \n1/4 cup shredded carrots \n• \n1 tablespoon tahini \n• \n1 tablespoon lemon juice \n• \n•  Salt and pepper to taste •  2 slices whole grain bread \n•  4 slices turkey breast \n1/2 apple, thinly sliced \n• \n1/4 cup baby spinach \n• \n1 tablespoon mustard or mayo \n• • \n• \n• \n• \n• \n•  2 tablespoons olive oil \n1 tablespoon lemon juice \n• \n•  Salt and pepper to taste Chicken and Avocado Wrap \nIngredients: 1 whole wheat tortilla \n1 cup cooked chicken breast, sliced \n1/2 avocado, sliced \n1/4 cup baby spinach \n1 tablespoon ranch dressing Instructions: Lentil and Veggie Wrap \nIngredients: 1 whole wheat tortilla \n1/2 cup cooked lentils \n1/4 cup bell pepper, sliced \n1/4 cup cucumber, diced \n1/4 cup shredded carrots \n1 tablespoon hummus Instructions: Turkey and Hummus Wrap \nIngredients: Instructions: •  Lay the tortilla flat and spread the ranch dressing evenly. \n•  Add the chicken, avocado, and spinach. \n•  Roll up the tortilla tightly and slice in half.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "•  4 pork chops \n•  2 apples, sliced \n•  1 small onion, sliced \n•  1/4 cup apple cider \n•  1/4 cup chicken broth \n•  2 tablespoons butter \n•  1 tablespoon olive oil \n•  1 teaspoon thyme \n•  Salt and pepper to taste •  1 eggplant, diced \n•  1 zucchini, diced \n•  1 bell pepper, diced \n•  1 small onion, diced \n•  2 cloves garlic, minced \n•  4 tomatoes, diced",
+      "page_number": 15
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "chunk_text": "Copy images Use the Select tool to copy and paste individual images from a PDF to the clipboard, another \napplication, or a file. Open the Preferences dialog box if you cannot select an image because of overlapping text. \nSelect Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then \nselect Preferences. Under Categories, Select General. Then select the Make Select tool select \nimages before text. 1.  Using the Select tool , do one of the following: hair icon appears, and then drag a rectangle around the portion. Note: To deselect an image and start over, click outside it. 2.  Right-click the image and select copy. Once done, you can paste it to a new file or a clipboard. •  To select the entire image, select the image or drag a rectangle around it. •  To select a portion of an image, hold the pointer over the image until the cross- Export objects to separate PDF Using the Edit Object tool, you can save objects into a separate PDF. 1.  Select All tools > Use print production > Edit object. 2.  Select the object or objects. 3.  Right-click the selection, and choose Save Selection As. 4.  In the Save As dialog, specify where you want to save the file, name the file, and then select Save. Take a snapshot of a page You can use the Snapshot tool to copy all selected content (text, images, or both) to the \nclipboard or another application. Text and images are copied as an image. You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select tool , draw a rectangle, right-click, and select Take a Snapshot. To use the Snapshot tool, do the following: more. (macOS) Select Edit in the upper left. Then select Undo, Redo and More 2.  Do one of the following: screen.",
+    "page_numbers": [
+      1,
+      2,
+      3
+    ],
+    "filename": "Learn Acrobat - Export_2.pdf"
+  },
+  {
+    "chunk_text": "Colors in the selected area are inverted momentarily to highlight the selection. \nThe selection is copied automatically to the clipboard when you release the \nmouse/touchpad button. If a document is open in another application, go to \nthe document, right-click, and select Paste to paste the copied selection \ndirectly into the target document. Note: You can save all the images from a PDF. See Export images to another format . This \nfeature isn’t available in Reader. •  Select anywhere on the page to capture the entire content displayed on the •  Drag a rectangle within an image to copy just a portion of the image. •  Drag a rectangle around the text or images or a combination of both. 1.   (Windows) Select the hamburger menu   in the upper left. Then select Undo, Redo &",
+    "page_numbers": [
+      3
+    ],
+    "filename": "Learn Acrobat - Export_2.pdf"
+  }
+]

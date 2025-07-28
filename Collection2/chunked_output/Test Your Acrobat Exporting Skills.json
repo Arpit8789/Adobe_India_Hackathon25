@@ -1,0 +1,17 @@
+[
+  {
+    "chunk_text": "Export Expert: Test Your Acrobat Exporting Skills Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything \nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test. \nDive into real-world scenarios, answer intriguing questions, and see if you have what it takes \nto be a true PDF exporting pro 1.  Yes or No: Can you save a PDF in text format to use with a screen reader? 2.  True or False: Saving a digitally signed PDF invalidates the signature. 3.  Scenario: Imagine you're working on an important report and your computer crashes. \nDo you rely on the Autosave feature to recover your work or start from scratch? 4.  Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it? 5.  True or False: The Autosave feature in Acrobat saves your work every 15 minutes by default. 6.  Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to convert your PDF to a PowerPoint file or manually recreate the slides? 7.  Yes or No: Can you export a PDF to a reusable format like Microsoft Word? 8.  True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled usage rights. 9.  Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a client. Do you use \"File > Save\" or \"File > Save As\"? 10. Yes or No: Does the Autosave feature work if a document's security settings are changed? 11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using Acrobat. 12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do you use the \"Convert\" button in Acrobat or retype the entire document? 13. Yes or No: Can you export images from a PDF to another format using Acrobat? 14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+    "page_numbers": [
+      1
+    ],
+    "filename": "Test Your Acrobat Exporting Skills.pdf"
+  },
+  {
+    "chunk_text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot? 16. Yes or No: Can you export a PDF to XML format using Acrobat? 17. True or False: You can use the Snapshot tool to copy selected content as an image. 18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. Do you use the \"Convert to HTML\" option or manually code the content? 19. Yes or No: Can you select and copy text and images from a PDF using the Select tool? 20. True or False: The Autosave feature is disabled by default in Acrobat.",
+    "page_numbers": [
+      1,
+      2
+    ],
+    "filename": "Test Your Acrobat Exporting Skills.pdf"
+  }
+]
